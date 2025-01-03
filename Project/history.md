@@ -1,0 +1,9 @@
+histornon.txt -> encsa.txt (pegs: 231) | Thu Dec 26 03:48:11 2024
+hello.txt -> hello (pegs: 255) | Thu Dec 26 03:59:50 2024
+hello.txt -> hey.txt (pegs: 255) | Thu Dec 26 04:02:56 2024
+merry.txt -> notmerry.txt (pegs: 255) | Thu Dec 26 11:45:18 2024
+hello.txt -> hello1.txt (pegs: 5) | Fri Dec 27 09:24:46 2024
+merry.txt -> merrypeg2.txt (pegs: 5) | Fri Dec 27 09:45:18 2024
+bee.txt -> beet.txt (pegs: 255) | Fri Dec 27 10:03:46 2024
+beet.txt -> bees.txt (pegs: 1) | Fri Dec 27 10:04:42 2024
+shiminet.txt -> shiminot.txt (pegs: 69) | Fri Dec 27 10:09:34 2024
